@@ -1,0 +1,63 @@
+body {
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  width: 100%;
+}
+.header {
+  background-color: #1f2535;
+  padding: 10px 3%;
+  color: white;
+  padding-bottom: 40px;
+}
+
+.hellotext {
+  width: 40%;
+  margin-bottom: 50px;
+}
+
+.header h1 {
+  font-size: 5em;
+  line-height: 1em;
+}
+
+.header h4 {
+  font-weight: normal;
+}
+
+.pictoCard h5 {
+  font-weight: normal;
+  font-size: 1.1 em;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.pictos {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 3%;
+}
+.button {
+  background-color: white;
+  padding: 10px;
+  display: block;
+  display: inline;
+  font-weight: bold;
+  border-radius: 3px;
+  color: #1f2535;
+}
+
+.menutop {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logos {
+  display: flex;
+  flex-direction: column;
+}
